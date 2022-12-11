@@ -1,38 +1,72 @@
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #333;
   display: flex;
-  flex-direction: column;
+  justify-content: stretch;
+  font-family: "Roboto";
+  flex-direction: row;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.Canvas {
+  padding: 2rem;
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+}
+
+.SideMenu {
+  width: 10vw;
+  padding: 1rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-right: 1px solid #666;
+}
+
+.SideMenu label {
+  font-size: 0.75rem;
+  color: #eee;
+  display: block;
+  margin: 1rem 0 0.25rem 0;
+}
+
+.SideMenu h1 {
+  font-size: 1.5rem;
+  color: #eee;
+}
+
+.SideMenu .PhoneList {
+  flex-grow: 1 1 0;
+
+}
+
+.SideMenu .PhoneList > div {
+  background-color: #666;
+  margin: 0.5rem 0;
+  padding: 0.4rem;
+  color: aliceblue;
+  font-size: 10pt;
+  border: 1px solid #333;
+  border-radius: 4px;
+  display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
+}
+.SideMenu .PhoneList div svg {
+  height: 16px;
+  width: 16px;
+  margin: 0;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+select {
+  width: 100%;
+  background-color: transparent;
+  color: #eee;
+  margin: 1rem 0;
+  padding: 1rem 0.25rem;
+  border: none;
 }

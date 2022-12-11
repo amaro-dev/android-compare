@@ -1,0 +1,45 @@
+
+.PhoneFrame {
+    margin: 1rem;
+}
+.PhoneFrame label {
+  font-size: 9pt;
+  display: block;
+  margin-bottom: 4px;
+}
+.Phone {
+  border: 2px solid #DDD;
+  font-family: "Roboto";
+  padding-top: 0.5em;
+  box-sizing: border-box;
+}
+
+.Phone span {
+    display: block;
+    margin-bottom: 16pt;
+    position: relative;
+}
+
+.Phone span::before {
+    content: '';
+    display: block;
+    position: absolute;
+    height: 1px;
+    left: 0;
+    right: 0;
+    top: 0;
+    background: #FFF;
+    opacity: 0.5;
+}
+
+.Phone span::after {
+    content: '';
+    display: block;
+    position: absolute;
+    height: 1px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #FFF;
+    opacity: 0.5;
+}
