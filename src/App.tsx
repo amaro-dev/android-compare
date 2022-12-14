@@ -1,10 +1,9 @@
-import { AppBar, Autocomplete, Box, Card, Container, FormControl, Paper, Slider, Stack, TextField, Typography } from '@mui/material';
+import { AppBar, Autocomplete, Card, Container, FormControl, Slider, Stack, TextField, Typography } from '@mui/material';
 import { useRef, useState } from 'react';
 import './App.css';
 import { Phone, PhoneDef, WindowSize } from './Phone';
 import DeleteIcon from '@mui/icons-material/Delete';
 import { TextFields, ZoomOutMap } from '@mui/icons-material';
-import { grey } from '@mui/material/colors';
 import phoneData from "./catalog.json";
 
 
