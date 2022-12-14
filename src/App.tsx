@@ -128,7 +128,7 @@ function App() {
           <div className='SideMenu'>
             <Stack direction="column">
               {phones.map((p: PhoneDef) => (
-                <Card variant="outlined" sx={{background: "#666"}}>
+                <Card variant="outlined" sx={{ background: "#666", my: "0.25rem" }}>
                   <Stack direction="row" sx={{ borderRadius: '0.25rem', alignItems: 'center', justifyContent: 'space-between', p: '0.25rem 0', pl: '0.5rem' }}>
                     <Typography noWrap sx={{ color: 'primary.contrastText', fontSize: '0.75rem' }}>{p.name}</Typography>
                     <DeleteIcon sx={{ color: 'primary.contrastText', height: '1rem', cursor: 'pointer' }} onClick={() => handleRemoveDevice(p)} />
@@ -137,8 +137,8 @@ function App() {
               ))}
             </Stack>
           </div>
-          <div className='Canvas' style={{ zoom: zoomLevel / 100 }}>
-            {phones.map((p: PhoneDef) => (<Phone definition={p} fontScale={fontScale} />))}
+          <div className='Canvas'>
+            {phones.map((p: PhoneDef) => (<Phone definition={p} fontScale={fontScale} zoomLevel={zoomLevel} />))}
           </div>
         </Stack>
       </Stack>

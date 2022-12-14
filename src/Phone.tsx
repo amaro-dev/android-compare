@@ -3,9 +3,9 @@ import './Phone.css'
 const BASELINE = 160
 
 export function Phone(attrs: any) {
-    let { definition, fontScale } = attrs;
+    let { definition, fontScale, zoomLevel } = attrs;
     let screenDpi = dpi()
-    let zoom =  definition.ppi / screenDpi 
+    let zoom =  (definition.ppi / screenDpi)  
     let { width, height } = definition.size
     let realSize = definition.realSize()
 
@@ -29,8 +29,10 @@ export function Phone(attrs: any) {
     return (
         <div className="PhoneFrame">
             <label>{definition.name} ({width.toFixed(0)} x {height.toFixed(0)} pixels / {realSize.width.toFixed(2)} x {realSize.height.toFixed(2)} inches)</label>
-            <div className="Phone" style={phoneStyle}>
-                {content}
+            <div style={{zoom: zoomLevel / 100}}>
+                <div className="Phone" style={phoneStyle}>
+                    {content}
+                </div>
             </div>
         </div>
 
