@@ -4,14 +4,38 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import CssBaseline from '@mui/material/CssBaseline';
+import { createTheme, ThemeProvider } from '@mui/material';
+import { blueGrey } from '@mui/material/colors';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
+
+const theme = createTheme({
+  palette: {
+    mode: 'light',
+    primary: blueGrey,
+  },
+  components: {
+    MuiSlider: {
+      styleOverrides: {
+        rail: {
+          color: 'rgba(0,0,0,0.3)'
+        },
+        track: {
+          color: blueGrey[200]
+        }
+      }
+    }
+  }
+})
+
 root.render(
   <React.StrictMode>
-    <CssBaseline enableColorScheme/>
-    <App />
+    <ThemeProvider theme={theme}>
+      <CssBaseline/>
+      <App />
+    </ThemeProvider>
   </React.StrictMode>
 );
 

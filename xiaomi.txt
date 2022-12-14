@@ -1,0 +1,695 @@
+Black Shark 2 Dual SIM SKW-A0;1080;2340;403
+Black Shark 2 Global Dual SIM SKW-H0;1080;2340;403
+Black Shark 2 Pro Dual SIM DLT-A0;1080;2340;403
+Black Shark 2 Pro Global Dual SIM DLT-H0;1080;2340;403
+Black Shark 3 5G Premium Edition Dual SIM KLE-A0;1080;2400;395
+Black Shark 3 5G Premium Edition Global Dual SIM KLE-H0;1080;2400;395
+Black Shark 3 5G Standard Edition Dual SIM KLE-A0;1080;2400;395
+Black Shark 3 5G Standard Edition Global Dual SIM KLE-H0;1080;2400;395
+Black Shark 3 Pro 5G Premium Edition Dual SIM MBU-A0;1440;3120;485
+Black Shark 3 Pro 5G Premium Edition Global Dual SIM MBU-H0;1440;3120;485
+Black Shark 3 Pro 5G Standard Edition Dual SIM MBU-A0;1440;3120;485
+Black Shark 3 Pro 5G Standard Edition Global Dual SIM MBU-H0;1440;3120;485
+Black Shark 3S 5G Dual SIM KPRO;1080;2400;395
+Black Shark 4 5G Premium Edition Dual SIM PRS-A0;1080;2400;395
+Black Shark 4 5G Premium Edition Global Dual SIM PRS-H0;1080;2400;395
+Black Shark 4 5G Standard Edition Dual SIM PRS-A0;1080;2400;395
+Black Shark 4 5G Top Edition Dual SIM PRS-A0;1080;2400;395
+Black Shark 4 5G Top Edition Global Dual SIM PRS-H0;1080;2400;395
+Black Shark 4 Pro 5G Premium Edition Dual SIM KSR-A0;1080;2400;395
+Black Shark 4 Pro 5G Standard Edition Dual SIM KSR-A0;1080;2400;395
+Black Shark 4 Pro 5G Top Edition Dual SIM KSR-A0;1080;2400;395
+Black Shark 4S 5G Gundam Limited Edition Dual SIM PRS-A0;1080;2400;395
+Black Shark 4S 5G Standard Edition Dual SIM PRS-A0;1080;2400;395
+Black Shark 4S Pro 5G Premium Edition Dual SIM KSR-A0;1080;2400;395
+Black Shark 4S Pro 5G Top Edition Dual SIM KSR-A0;1080;2400;395
+Black Shark 5 5G Premium Edition Dual SIM PAR-A0;1080;2400;395
+Black Shark 5 5G Premium Edition Global Dual SIM PAR-H0;1080;2400;395
+Black Shark 5 5G Standard Edition Dual SIM PAR-A0;1080;2400;395
+Black Shark 5 5G Standard Edition Global Dual SIM PAR-H0;1080;2400;395
+Black Shark 5 Pro 5G Premium Edition Dual SIM KTUS-A0;1080;2400;395
+Black Shark 5 Pro 5G Premium Edition Global Dual SIM KTUS-H0;1080;2400;395
+Black Shark 5 Pro 5G Standard Edition Dual SIM KTUS-A0;1080;2400;395
+Black Shark 5 Pro 5G Standard Edition Global Dual SIM KTUS-H0;1080;2400;395
+Black Shark 5 Pro 5G Top Edition Dual SIM KTUS-A0;1080;2400;395
+Black Shark 5 Pro 5G Top Edition Global Dual SIM KTUS-H0;1080;2400;395
+Black Shark 5 RS 5G Premium Edition Dual SIM KSR-A0;1080;2400;395
+Black Shark 5 RS 5G Standard Edition Dual SIM KSR-A0;1080;2400;395
+Black Shark Dual SIM SKR-A0;1080;2160;403
+Black Shark Global Dual SIM SKR-H0;1080;2160;403
+Black Shark Helo Premium Edition Dual SIM AWM-A0;1080;2160;403
+Black Shark Helo Premium Edition Global Dual SIM AWM-A0;1080;2160;403
+Black Shark Helo Standard Edition Global Dual SIM AWM-A0;1080;2160;403
+Civi 5G Premium Edition Dual SIM 2109119BC;1080;2400;402
+Civi 5G Standard Edition Dual SIM 2109119BC;1080;2400;402
+Hongmi / Redmi 2013022;720;1280;313
+Hongmi / Redmi Dual SIM 2013023;720;1280;313
+Hongmi 1S / Redmi 1S CDMA 2013028;720;1280;313
+Hongmi 1s / Redmi 1s Dual SIM 2013029;720;1280;313
+Hongmi 1s / Redmi 1s Dual SIM 2014012;720;1280;313
+Hongmi 1s / Redmi 1s TD Dual SIM 2014011;720;1280;313
+Hongmi 2 4G / Redmi 2 2014821;720;1280;313
+Hongmi 2 4G / Redmi 2 Dual SIM 2014112;720;1280;313
+Hongmi 2 4G / Redmi 2 Dual SIM 2014811;720;1280;313
+Hongmi 2 4G / Redmi 2 Dual SIM 2014812;720;1280;313
+Hongmi 2 4G / Redmi 2 Dual SIM 2014813;720;1280;313
+Hongmi 2 4G / Redmi 2 Dual SIM 2014814;720;1280;313
+Hongmi 2 4G / Redmi 2 Dual SIM 2014816;720;1280;313
+Hongmi 2 4G / Redmi 2 Dual SIM LTE 2014815;720;1280;313
+Hongmi 2 4G / Redmi 2 Dual SIM LTE 2014817;720;1280;313
+Hongmi 2 Enhanced 4G / Redmi 2 Enhanced Dual SIM LTE 2014817;720;1280;313
+Hongmi 2 Prime 4G / Redmi 2 Prime Dual SIM 2014818;720;1280;313
+Hongmi 2 Pro 4G / Redmi 2 Pro Dual SIM LTE 2014819;720;1280;313
+Hongmi 2A / Redmi 2A Dual SIM TD-LTE;720;1280;312
+Hongmi 2A / Redmi 2A Enhanced Version Dual SIM TD-LTE;720;1280;312
+Hongmi 3 4G / Redmi 3 Dual SIM 2015815;720;1280;294
+Hongmi 3 4G / Redmi 3 Dual SIM 2015816;720;1280;294
+Hongmi 3 4G / Redmi 3 Dual SIM 2015817;720;1280;294
+Hongmi 3 4G 2015810 / Redmi 3 Dual SIM 2015818;720;1280;294
+Hongmi 3 4G 2015819 / Redmi 3 Dual SIM 2015811;720;1280;294
+Hongmi 3s 4G / Redmi 3s Dual SIM  2016030;720;1280;294
+Hongmi 3s 4G / Redmi 3s Dual SIM  2016031;720;1280;294
+Hongmi 3s 4G / Redmi 3s Dual SIM  2016031;720;1280;296
+Hongmi 3s 4G / Redmi 3s Dual SIM 2016030;720;1280;294
+Hongmi 3s+ 4G / Redmi 3s Plus Dual SIM 2016031;720;1280;296
+Hongmi 3x 4G 2016033 / Redmi 3x Dual SIM 2016036;720;1280;294
+Hongmi 4 / Redmi 4 Premium Edition Dual SIM 2016060;1080;1920;441
+Hongmi 4 / Redmi 4 Standard Edition Dual SIM  2016090;720;1280;294
+Hongmi 4G / Redmi 4G 2014501;720;1280;313
+Hongmi 4G / Redmi 4G Dual SIM 2014502;720;1280;313
+Hongmi 4X / Redmi 4X Premium Edition Dual SIM MAE136;720;1280;294
+Hongmi 4X / Redmi 4X Premium Edition Dual SIM MAT136;720;1280;294
+Hongmi 4X / Redmi 4x Standard Edition Dual SIM  MAE136;720;1280;294
+Hongmi Note 1 / Redmi Note 4G 2014021;720;1280;269
+Hongmi Note 1 / Redmi Note 4G 2014022;720;1280;269
+Hongmi Note 1 / Redmi Note Dual SIM 2013121;720;1280;266
+Hongmi Note 1 / Redmi Note Dual SIM 2014018;720;1280;266
+Hongmi Note 1 / Redmi Note LTE 2014715;720;1280;266
+Hongmi Note 1s / Redmi Note 1s Dual SIM  2014915;720;1280;269
+Hongmi Note 1s / Redmi Note 1s Dual SIM 8GB 2014910;720;1280;269
+Hongmi Note 1s / Redmi Note 1s Dual SIM 8GB 2014911;720;1280;269
+Hongmi Note 1s / Redmi Note 1s Dual SIM 8GB 2014912;720;1280;269
+Hongmi Note 1s / Redmi Note 1s Dual SIM 8GB 2014916;720;1280;269
+Hongmi Note 1TD / Redmi Note TD Dual SIM 2013122;720;1280;266
+Hongmi Note 1TD / Redmi Note TD Dual SIM 2014017;720;1280;266
+Hongmi Note 2 / Redmi Note 2 Dual SIM  2015051;1080;1920;403
+Hongmi Note 2 / Redmi Note 2 Dual SIM  2015052;1080;1920;403
+Hongmi Note 2 / Redmi Note 2 Dual SIM  2015055;1080;1920;403
+Hongmi Note 2 / Redmi Note 2 Dual SIM 20150718;1080;1920;403
+Hongmi Note 2 / Redmi Note 2 Prime Dual SIM 2015056;1080;1920;403
+Hongmi Note 2 / Redmi Note 2 Prime Dual SIM;1080;1920;403
+Hongmi Note 3 / Redmi Note 3 Dual SIM  2015617;1080;1920;401
+Hongmi Note 3 / Redmi Note 3 Dual SIM 2015611;1080;1920;401
+Hongmi Note 3 / Redmi Note 3 Dual SIM 2015617;1080;1920;401
+Hongmi Note 3 Pro / Redmi Note 3 Pro Dual SIM  2015115;1080;1920;401
+Hongmi Note 3 Pro / Redmi Note 3 Pro Dual SIM  2015116;1080;1920;401
+Hongmi Note 3 Pro / Redmi Note 3 Pro Dual SIM 2015112;1080;1920;401
+Hongmi Note 4 / Redmi Note 4 Dual SIM TW 2016050;1080;1920;401
+Hongmi Note 4 / Redmi Note 4 Exclusive Edition Dual SIM 2016050;1080;1920;401
+Hongmi Note 4 / Redmi Note 4 Premium Edition Dual SIM 2016050;1080;1920;401
+Hongmi Note 4 / Redmi Note 4 Standard Edition Dual SIM  2016051;1080;1920;401
+Hongmi Note Prime 4G / Redmi Note Prime Dual SIM TD-LTE;720;1280;267
+Huami Amazfit Bip S Watch;176;176;195
+Huami Amazfit GTS smartwatch;348;442;341
+Huami Amazfit Smart Sports Watch 2 / Stratos;300;320;328
+Huami Amazfit Smart Sports Watch 2s Premium Edition;300;320;328
+Huami Amazfit Smart Sports Watch Lite;176;176;195
+Huami Amazfit Smart Sports Watch;300;320;328
+Huami Amazfit T-Rex Smart Sports Watch;360;360;392
+Mi 10 5G Dual SIM M2001J2I;1080;2340;386
+Mi 10 5G Global M2001J2G;1080;2340;386
+Mi 10 5G Premium Edition Dual SIM M2001J2E / M2001J2C;1080;2340;386
+Mi 10 5G Standard Edition Dual SIM M2001J2E / M2001J2C;1080;2340;386
+Mi 10 Lite 5G KR M2002J9S;1080;2400;401
+Mi 10 Lite 5G Premium Edition Global Dual SIM M2002J9G;1080;2400;401
+Mi 10 Lite 5G Standard Edition Global Dual SIM M2002J9G;1080;2400;401
+Mi 10 Lite 5G XIG01 JP M2002J9R;1080;2400;401
+Mi 10 Lite Zoom 5G Dual SIM M2002J9C;1080;2400;401
+Mi 10 Pro 5G Global M2001J1G;1080;2340;386
+Mi 10 Pro 5G Premium Edition Dual SIM M2001J1E / M2001J1C;1080;2340;386
+Mi 10 Pro 5G Standard Edition Dual SIM M2001J1E / M2001J1C;1080;2340;386
+Mi 10 Ultra Premium Edition Dual SIM M2007J1SC;1080;2340;386
+Mi 10 Ultra Standard Edition Dual SIM M2007J1SC;1080;2340;386
+Mi 10 Youth Premium Edition 5G Dual SIM M2002J9E / Mi 10 Lite;1080;2400;401
+Mi 10 Youth Premium Edition 5G Dual SIM M2002J9E;1080;2400;401
+Mi 10 Youth Standard Edition 5G Dual SIM M2002J9E;1080;2400;401
+Mi 10i 5G Premium Edition Dual SIM M2007J17I;1080;2400;395
+Mi 10i 5G Standard Edition Dual SIM M2007J17I;1080;2400;395
+Mi 10S 5G Premium Edition Dual SIM M2102J2SC;1080;2340;386
+Mi 10S 5G Standard Edition Dual SIM M2102J2SC;1080;2340;386
+Mi 10T 5G Premium Edition Dual SIM M2007J3SP;1080;2400;395
+Mi 10T 5G Premium Edition Global Dual SIM M2007J3SY;1080;2400;395
+Mi 10T 5G Standard Edition Dual SIM M2007J3SP;1080;2400;395
+Mi 10T 5G Standard Edition Global Dual SIM M2007J3SY;1080;2400;395
+Mi 10T Lite 5G Global Dual SIM M2007J17G;1080;2400;395
+Mi 10T Pro 5G Dual SIM M2007J3SI;1080;2400;395
+Mi 10T Pro 5G Global Dual SIM M2007J3SG;1080;2400;395
+Mi 11 5G Global Dual SIM M2011K2G;1440;3200;515
+Mi 11 5G Premium Edition Dual SIM M2011K2C;1440;3200;515
+Mi 11 5G Special Edition Dual SIM M2011K2C;1440;3200;515
+Mi 11 5G Standard Edition Dual SIM M2011K2C;1440;3200;515
+Mi 11 Lite 4G Premium Edition Global Dual SIM M2101K9AG ;1080;2400;402
+Mi 11 Lite 4G Standard Edition Global Dual SIM M2101K9AG;1080;2400;402
+Mi 11 Lite 5G Dual SIM JP M2101K9R;1080;2400;402
+Mi 11 Lite 5G NE Premium Edition Global Dual SIM 2109119DG;1080;2400;402
+Mi 11 Lite 5G NE Standard Edition Global Dual SIM 2109119DG;1080;2400;402
+Mi 11 Lite 5G Premium Edition Global Dual SIM M2101K9G;1080;2400;402
+Mi 11 Lite 5G Standard Edition Global Dual SIM M2101K9G;1080;2400;402
+Mi 11 Lite NE 5G Premium Edition Dual SIM 2109119DI;1080;2400;402
+Mi 11 Lite NE 5G Standard Edition Dual SIM 2109119DI;1080;2400;402
+Mi 11 Pro 5G Premium Edition Dual SIM M2102K1AC;1440;3200;515
+Mi 11 Pro 5G Standard Edition Dual SIM M2102K1AC;1440;3200;515
+Mi 11 Ultra 5G Global Dual SIM M2102K1G;1440;3200;515;126;294;291
+Mi 11 Ultra 5G Premium Edition Dual SIM M2102K1C;1440;3200;515;126;294;291
+Mi 11 Ultra 5G Standard Edition Dual SIM M2102K1C;1440;3200;515;126;294;291
+Mi 11 Youth 5G Premium Edition Dual SIM M2101K9C;1080;2400;402
+Mi 11 Youth Vitality Edition 5G Dual SIM 2107119DC;1080;2400;402
+Mi 11i 5G Global Dual SIM M2012K11G;1080;2400;395
+Mi 11T 5G Global Dual SIM 21081111RG;1080;2400;395
+Mi 11T Pro 5G Premium Edition Dual SIM 2107113SI;1080;2400;395
+Mi 11T Pro 5G Premium Edition Global Dual SIM 2107113SG;1080;2400;395
+Mi 11T Pro 5G Standard Edition Dual SIM 2107113SI;1080;2400;395
+Mi 11T Pro 5G Standard Edition Dual SIM JP 2107113SR;1080;2400;395
+Mi 11T Pro 5G Standard Edition Global Dual SIM 2107113SG;1080;2400;395
+Mi 11X 5G Premium Edition Dual SIM M2012K11AI;1080;2400;395
+Mi 11X 5G Standard Edition Dual SIM M2012K11AI;1080;2400;395
+Mi 11X Pro 5G Dual SIM M2012K11I;1080;2400;395
+Mi 12 5G Premium Edition Dual SIM 2201123C;1080;2400;419
+Mi 12 5G Premium Edition Global Dual SIM 2201123G;1080;2400;419
+Mi 12 5G Standard Edition Dual SIM 2201123C;1080;2400;419
+Mi 12 5G Standard Edition Global Dual SIM 2201123G;1080;2400;419
+Mi 12 Lite 5G Premium Edition Global Dual SIM 2203129G;1080;2400;402
+Mi 12 Lite 5G Premium Edition Global Dual SIM 2203129I;1080;2400;402
+Mi 12 Lite 5G Standard Edition Global Dual SIM 2203129G;1080;2400;402
+Mi 12 Pro 5G Premium Edition Dual SIM 2201122C;1440;3200;521
+Mi 12 Pro 5G Premium Edition Global Dual SIM 2201122G;1440;3200;521
+Mi 12 Pro 5G Standard Edition Dual SIM 2201122C;1440;3200;521
+Mi 12 Pro 5G Standard Edition Global Dual SIM 2201122G;1440;3200;521
+Mi 12X 5G Global Dual SIM 2112123AG;1080;2400;419
+Mi 12X 5G Premium Edition Dual SIM 2112123AC;1080;2400;419
+Mi 12X 5G Standard Edition Dual SIM 2112123AC;1080;2400;419
+Mi 4c Dual SIM  2015561;1080;1920;441
+Mi 4c Dual SIM  2015562;1080;1920;441
+Mi 4c Dual SIM;1080;1920;441
+Mi 4i Dual SIM  2015015;1080;1920;450
+Mi 4i Dual SIM 2015015;1080;1920;450
+Mi 4s Dual SIM  2015911;1080;1920;441
+Mi 4s Dual SIM 2015911;1080;1920;441
+Mi 5c Dual SIM 2016089;1080;1920;428
+Mi 5s Extreme Edition Dual SIM;1080;1920;428
+Mi 5s Plus Premium Edition Dual SIM / Mi5S Plus 2016070;1080;1920;389
+Mi 5s Plus Premium Edition Dual SIM TW HK;1080;1920;389
+Mi 5s Plus Standard Edition Dual SIM / Mi5S Plus 2016070;1080;1920;389
+Mi 5s Premium Edition Dual SIM / Mi5S 2015711;1080;1920;428
+Mi 5s Premium Edition Dual SIM TW HK;1080;1920;428
+Mi 5s Standard Edition Dual SIM / Mi5S 2015711;1080;1920;428
+Mi 5X Dual SIM;1080;1920;403
+Mi 6 Dual SIM MCE16;1080;1920;428
+Mi 6 Dual SIM MCT1;1080;1920;428
+Mi 6 Dual SIM TW;1080;1920;428
+Mi 6 Mercury Silver Limited Edition Dual SIM MCE16;1080;1920;428
+Mi 6 Standard Edition Dual SIM MCE16;1080;1920;428
+Mi 6X Dual SIM M1804D2SE / M1804D2SC;1080;2160;403
+Mi 6X Dual SIM M1804D2ST;1080;2160;403
+Mi 8 Dual SIM M1803E1A;1080;2248;402
+Mi 8 Dual SIM M1803E1C;1080;2248;402
+Mi 8 Dual SIM M1803E1T;1080;2248;402
+Mi 8 Explorer Edition Dual SIM M1807E8S / Mi 8 UD;1080;2248;402
+Mi 8 Lite Global Dual SIM M1808D2TG;1080;2280;403
+Mi 8 Premium Edition Dual SIM M1803E1A;1080;2248;402
+Mi 8 Pro Global Dual SIM M1807E8A;1080;2248;402
+Mi 8 SE Premium Dual SIM M1805E2A;1080;2244;424
+Mi 8 SE Standard Dual SIM M1805E2A;1080;2244;424
+Mi 8 UD Dual SIM M1807E8S;1080;2248;402
+Mi 8 Youth Premium Edition Dual SIM M1808D2TE / M1808D2TC;1080;2280;403
+Mi 8 Youth Premium Edition Dual SIM M1808D2TT;1080;2280;403
+Mi 8 Youth Standard Edition Dual SIM M1808D2TE / M1808D2TC;1080;2280;403
+Mi 9 Global Dual SIM M1902F1G;1080;2340;403
+Mi 9 Lite Global Dual SIM M1904F3BG ;1080;2340;403
+Mi 9 Lite Global Dual SIM M1904F3BG;1080;2340;403
+Mi 9 Premium Edition Dual SIM M1902F1A / M1902F1C;1080;2340;403
+Mi 9 Pro 5G Premium Edition Dual SIM M1908F1XE;1080;2340;403
+Mi 9 Pro 5G Standard Edition Dual SIM M1908F1XE;1080;2340;403
+Mi 9 SE Dual SIM M1903F2A;1080;2340;432
+Mi 9 SE Global Dual SIM M1903F2G / Mi 9 Lite;1080;2340;432
+Mi 9 SE Global Dual SIM M1903F2G;1080;2340;432
+Mi 9 Standard Edition Dual SIM M1902F1A / M1902F1C;1080;2340;403
+Mi 9 Standard Edition Dual SIM M1902F1T;1080;2340;403
+Mi 9 Transparent Premium Edition Dual SIM M1902F1A ;1080;2340;403
+Mi 9 Transparent Standard Edition Dual SIM M1902F1A;1080;2340;403
+Mi 9T Global Dual SIM M1903F10G;1080;2340;403
+Mi 9T Pro Global Dual SIM M1903F11G;1080;2340;403
+Mi A1 Dual SIM IN;1080;1920;403
+Mi A1 Global Dual SIM MDG2 / Mi 5X Android One;1080;1920;403
+Mi A2 Dual SIM Global M1804D2SG;1080;2160;403
+Mi A2 Lite Premium Edition Global Dual SIM M1805D1SG;1080;2280;432
+Mi A2 Lite Standard Edition Global Dual SIM M1805D1SG ;1080;2280;432
+Mi A3 Dual SIM M1906F9SI;720;1560;282
+Mi A3 Global Dual SIM M1906F9SH;720;1560;282
+Mi CC9 Dual SIM M1904F3BC;1080;2340;403
+Mi CC9 Dual SIM M1904F3BT;1080;2340;403
+Mi CC9 Meitu Edition Dual SIM M1904F3BC;1080;2340;403
+Mi CC9 Pro Premium Edition Dual SIM M1910F4E;1080;2340;398
+Mi CC9 Pro Standard Edition Dual SIM M1910F4E;1080;2340;398
+Mi CC9e Premium Edition Dual SIM M1906F9SC;720;1560;282
+Mi CC9e Standard Edition Dual SIM M1906F9SC;720;1560;282
+Mi Max 2 Dual SIM MDE40;1080;1920;342
+Mi Max 2 Dual SIM MDT4;1080;1920;342
+Mi Max 2 Dual SIM TW HK;1080;1920;342
+Mi Max 3 Dual SIM M1804E4A / M1804E4C;1080;2160;350
+Mi Max 3 Dual SIM M1804E4T;1080;2160;350
+Mi Max Dual SIM  2016001;1080;1920;342
+Mi Max Dual SIM 2016001;1080;1920;342
+Mi Max Dual SIM 2016007;1080;1920;342
+Mi Max Dual SIM TW 2016002;1080;1920;342
+Mi Max Prime Dual SIM 2016007;1080;1920;342
+Mi Mix 2 Black Ceramic Edition Global Dual SIM MDE5;1080;2160;403
+Mi Mix 2 Exclusive Ceramic Edition Global Dual SIM MDE5S;1080;2160;403
+Mi Mix 2S Premium Edition Global Dual SIM M1803D5XA;1080;2160;403
+Mi Mix 2S Standard Edition Dual SIM M1803D5XE / M1803D5XC;1080;2160;403
+Mi Mix 2S Standard Edition Dual SIM M1803D5XT;1080;2160;403
+Mi Mix 2S Standard Edition Global Dual SIM M1803D5XA;1080;2160;403
+Mi Mix 3 5G Global M1810E5GG;1080;2340;403
+Mi Mix 3 Forbidden City Special Edition Dual SIM M1810E5EC;1080;2340;403
+Mi Mix 3 Premium Edition Dual SIM M1810E5E / M1810E5C;1080;2340;403
+Mi Mix 3 Standard Edition Dual SIM M1810E5E / M1810E5C;1080;2340;403
+Mi Mix 3 Standard Edition Dual SIM M1810E5T;1080;2340;403
+Mi Mix 3 Standard Edition Global Dual SIM M1810E5A;1080;2340;403
+Mi Mix 4 5G Premium Edition Dual SIM 2106118C;1080;2400;395
+Mi Mix 4 5G Standard Edition Dual SIM 2106118C;1080;2400;395
+Mi Mix Alpha 5G Dual SIM 512GB;2088;2250;388
+Mi Mix Dual SIM 2016080;1080;2040;362
+Mi Mix Exclusive Gold Ceramic Edition Dual SIM 2016080;1080;2040;362
+Mi Mix Fold 2021 5G Ceramic Special Edition Dual SIM 512GB;1860;2480;387;840;2520;407
+Mi Mix Fold 2021 5G Premium Edition Dual SIM 512GB;1860;2480;387;840;2520;407
+Mi Mix Fold 2021 5G Premium Edition Dual SIM;1860;2480;387;840;2520;407
+Mi Note 10 Global Dual SIM M1910F4G;1080;2340;398
+Mi Note 10 Lite Global Dual SIM M2002F4LG;1080;2340;398
+Mi Note 10 Pro Global Dual SIM M1910F4S;1080;2340;398
+Mi Note 2 Premium Edition Dual SIM Global 2015213;1080;1920;401
+Mi Note 2 Premium Edition Dual SIM;1080;1920;401
+Mi Note 2 Special Edition Dual SIM;1080;1920;401
+Mi Note 2 Standard Edition Dual SIM 2015211;1080;1920;401
+Mi Note 3 Dual SIM MCE8;1080;1920;401
+Mi Note 3 Standard Edition Dual SIM MCE8;1080;1920;401
+Mi Note Dual SIM  2014617;1080;1920;386
+Mi Note Dual SIM  2014618;1080;1920;386
+Mi Note Dual SIM  2014619;1080;1920;386
+Mi Note Dual SIM 2014616;1080;1920;386
+Mi Note Pro Dual SIM 2015021;1440;2560;515
+Mi Note Pro Dual SIM 2015022;1440;2560;515
+Mi Note Pro Dual SIM 2015501;1440;2560;515
+Mi Pad 2 Windows;1536;2048;324
+Mi Pad 2;1536;2048;324
+Mi Pad 3 7.9 WiFi;1536;2048;325
+Mi Pad 4 M1806D9E;1200;1920;283
+Mi Pad 4 Plus ;1200;1920;224
+Mi Pad 4 Plus;1200;1920;224
+Mi Pad 4 WiFi M1806D9W;1200;1920;283
+Mi Pad 5 11-inch WiFi 21051182G / 21051182C;1600;2560;275
+Mi Pad 5 Pro 11-inch Premium Edition WiFi M2105K81AC;1600;2560;275
+Mi Pad 5 Pro 11-inch Standard Edition WiFi 1M2105K81AC;1600;2560;275
+Mi Pad 5 Pro 11-inch Standard Edition WiFi M2105K81AC;1600;2560;275
+Mi Pad 5 Pro 5G 11-inch Premium Edition WiFi M2105K81C;1600;2560;275
+Mi Play Standard Edition Dual SIM M1901F9E;1080;2280;432
+Mi Play Standard Edition Dual SIM M1901F9T;1080;2280;432
+Mi Watch Color XMWT06;454;454;462
+Mi Watch Standard Edition TD-LTE;368;448;326
+MI-1S CDMA 2012053;854;480;246
+Mi-3 CDMA 2013063;1080;1920;441
+Mi-One / MI-1;854;480;246
+Mi-One C1 / MI-1 C1;854;480;246
+Mi-One S / MI-1S 2012051;854;480;246
+Mi-Three / Mi-3 TD 2013061;1080;1920;441
+Mi-Two / MI-2  2012061;720;1280;342
+Mi-Two / MI-2 2012061;720;1280;342
+Mi-Two CDMA / MI-2C  2012062;720;1280;342
+Mi-Two CDMA / MI-2C 2012062;720;1280;342
+Mi10 Ultra Silver Edition Dual SIM M2007J1SC / Extreme Commemorative;1080;2340;386
+Mi3 CDMA  2013063;1080;1920;441
+Mi3 TD  2013061;1080;1920;441
+Mi3 WCDMA  2013062;1080;1920;441
+Mi3 WCDMA 2013062;1080;1920;441
+Mi3S WCDMA;1080;1920;441
+Mi4 4G  2014216;1080;1920;441
+Mi4 4G  2014716;1080;1920;441
+Mi4 4G  2014719;1080;1920;441
+Mi4 4G  2014726;1080;1920;441
+Mi4 4G 2014216;1080;1920;441
+Mi4 CDMA  2014218;1080;1920;441
+Mi4 WCDMA  2014215 / Mi4W;1080;1920;441
+Mi4 WCDMA 2014215 / Mi4W;1080;1920;441
+Mi4 Windows 10 Mobile 4G TD-LTE;1080;1920;441
+Mi5 Gold Edition Dual SIM 2015201;1080;1920;428
+Mi5 Pro Ceramic Edition Dual SIM 2015628;1080;1920;428
+Mi5 Pro Dual SIM 2015201 / Mi5 Extreme Edition;1080;1920;428
+Mi5 Standard Edition Dual SIM 2015105 / Libra;1080;1920;428
+Mi6 Ceramic Gold Edition Dual SIM MCE16;1080;1920;428
+Mi6 Ceramic Gold Edition Dual SIM TW;1080;1920;428
+MiPad 7.9 WiFi A0101;1536;2048;324
+MiPad 9.2 4G LTE;720;1280;160
+Mobile Style ET-701 eden TAB;1280;800;215
+Phone 2A / Mi-Two A / MI-2A  2012121;720;1280;327
+Phone 2S / MI-2S 2013012;720;1280;342
+Phone 2S / MI-2S CDMA  2013021;720;1280;342
+Phone 2S / Mi-Two S / MI-2S  2013012;720;1280;342
+Poco F3 5G Premium Edition Global Dual SIM M2012K11AG;1080;2400;395
+Poco F3 5G Standard Edition Global Dual SIM M2012K11AG;1080;2400;395
+Poco F3 GT 5G Premium Edition Dual SIM M2104K10I;1080;2400;395
+Poco F3 GT 5G Standard Edition Dual SIM M2104K10I;1080;2400;395
+Poco F4 GT 5G Premium Edition Global Dual SIM 21121210G;1080;2400;395
+Poco F4 GT 5G Standard Edition Global Dual SIM 21121210G;1080;2400;395
+Poco M2 Premium Edition Dual SIM M2004J19PI;1080;2340;395
+Poco M2 Reloaded Dual SIM M2004J19PI;1080;2340;395
+Poco M2 Standard Edition Dual SIM M2004J19PI;1080;2340;395
+Poco M3 Dual SIM M2010J19CI;1080;2340;395
+Poco M3 Global Dual SIM M2010J19CG;1080;2340;395
+Poco M3 Pro 5G Premium Edition Dual SIM M2103K19PI;1080;2400;405
+Poco M3 Pro 5G Premium Edition Global Dual SIM M2103K19PG;1080;2400;405
+Poco M3 Pro 5G Standard Edition Dual SIM M2103K19PI;1080;2400;405
+Poco M3 Pro 5G Standard Edition Global Dual SIM M2103K19PG;1080;2400;405
+Poco M4 5G Premium Edition Dual SIM 22041219PI;1080;2048;352
+Poco M4 5G Premium Edition Global Dual SIM 22041219PG;1080;2048;352
+Poco M4 5G Standard Edition Dual SIM 22041219PI;1080;2048;352
+Poco M4 5G Standard Edition Global Dual SIM 22041219PG;1080;2048;352
+Poco M4 Pro 4G Premium Edition Dual SIM 2201117PI;1080;2400;409
+Poco M4 Pro 4G Premium Edition Global Dual SIM 2201117PG;1080;2400;409
+Poco M4 Pro 4G Standard Edition Dual SIM 2201117PI;1080;2400;409
+Poco M4 Pro 4G Standard Edition Global Dual SIM 2201117PG;1080;2400;409
+Poco M4 Pro 5G Premium Edition Global Dual SIM 21091116AG;1080;2400;399
+Poco M4 Pro 5G Standard Edition Global Dual SIM 21091116AG;1080;2400;399
+Poco X3 GT 5G Global Dual SIM 21061110AG;1080;2400;400
+Poco X3 NFC Standard Edition Global Dual SIM M2007J20CG;1080;2400;395
+Poco X3 Premium Edition Dual SIM M2007J20CI;1080;2400;395
+Poco X3 Pro Premium Edition Dual SIM M2102J20SI;1080;2400;395
+Poco X3 Pro Premium Edition Global Dual SIM M2102J20SG;1080;2400;395
+Poco X3 Pro Standard Edition Dual SIM M2102J20SI;1080;2400;395
+Poco X3 Pro Standard Edition Global Dual SIM M2102J20SG;1080;2400;395
+Poco X3 Standard Edition Dual SIM M2007J20CI;1080;2400;395
+Pocophone Poco C3 Dual SIM M2006C3MI;720;1600;269
+Pocophone Poco C31 Dual SIM;720;1600;269
+Pocophone Poco F1 Armoured Edition Global Dual SIM M1805E10A;1080;2246;403
+Pocophone Poco F1 Dual SIM M1805E10A;1080;2246;403
+Pocophone Poco F1 Global Dual SIM M1805E10A;1080;2246;403
+Pocophone Poco F2 Pro 5G Premium Edition Global Dual SIM M2004J11G;1080;2400;395
+Pocophone Poco F2 Pro 5G Standard Edition Global Dual SIM M2004J11G;1080;2400;395
+Pocophone Poco M2 Pro Premium Edition Dual SIM M2003J6CI;1080;2400;395
+Pocophone Poco M2 Pro Standard Edition Dual SIM M2003J6CI;1080;2400;395
+Pocophone Poco X2 Premium Edition Dual SIM M1912G7BI;1080;2400;395
+Pocophone Poco X2 Standard Edition Dual SIM M1912G7BI;1080;2400;395
+Pocophone Poco X2 Standard Edition Dual SIM;1080;2400;395
+Redmi 10 2021 Premium Edition Dual SIM LATAM 21061119AL;2560;1600;465
+Redmi 10 2021 Premium Edition Global Dual SIM 21061119AG;2560;1600;465
+Redmi 10 2021 Premium Edition Global Dual SIM 21061119DG;2560;1600;465
+Redmi 10 2021 Standard Edition Dual SIM LATAM 21061119AL;2560;1600;465
+Redmi 10 2021 Standard Edition Global Dual SIM 21061119AG;2560;1600;465
+Redmi 10 2021 Standard Edition Global Dual SIM 21061119DG;2560;1600;465
+Redmi 10 2022 4G Premium Edition Dual SIM 220333QBI;720;1650;268
+Redmi 10 2022 4G Standard Edition Dual SIM 220333QBI;720;1650;268
+Redmi 10 2022 Premium Edition Global Dual SIM 21121119SG;1080;2400;405
+Redmi 10 2022 Standard Edition Global Dual SIM 21121119SG;1080;2400;405
+Redmi 10 5G Premium Edition Global Dual SIM 22041219G;1080;2048;352
+Redmi 10 5G Standard Edition Global Dual SIM 22041219G;1080;2048;352
+Redmi 10 Prime 2021 Premium Edition Dual SIM 21061119BI;2560;1600;465
+Redmi 10 Prime 2021 Standard Edition Dual SIM 21061119BI;2560;1600;465
+Redmi 10C 4G NFC Premium Edition Global Dual SIM 220333QNY;720;1650;268
+Redmi 10C 4G NFC Standard Edition Global Dual SIM 220333QNY;720;1650;268
+Redmi 10C 4G Premium Edition Global Dual SIM 220333QAG;720;1650;268
+Redmi 10C 4G Standard Edition Global Dual SIM 220333QAG;720;1650;268
+Redmi 10X 4G Premium Edition Dual SIM M2003J15SC;1080;2340;395
+Redmi 10X 4G Standard Edition Dual SIM M2003J15SC;1080;2340;395
+Redmi 10X 5G Premium Edition Dual SIM M2004J7AC;1080;2400;401
+Redmi 10X 5G Standard Edition Dual SIM M2004J7AC;1080;2400;401
+Redmi 10X Pro 5G Dual SIM M2004J7BC;1080;2400;401
+Redmi 11 Prime 5G Premium Edition Dual SIM 22041219I;1080;2048;352
+Redmi 11 Prime 5G Standard Edition Dual SIM 22041219I;1080;2048;352
+Redmi 4 Dual SIM;720;1280;294
+Redmi 4A Dual SIM 2016111 / 2016112;720;1280;294
+Redmi 4A Dual SIM 2016116;720;1280;294
+Redmi 4A Dual SIM Global 2016117;720;1280;294
+Redmi 4X Global Dual SIM MAG138;720;1280;294
+Redmi 5 Dual SIM HK;720;1440;284
+Redmi 5 Dual SIM TW;720;1440;284
+Redmi 5 Dual SIM;720;1440;284
+Redmi 5 Plus Dual SIM HK EMEA MEG7;1080;2160;403
+Redmi 5 Plus Dual SIM MEE7;1080;2160;403
+Redmi 5 Plus Dual SIM MET7;1080;2160;403
+Redmi 5 Plus Dual SIM TW MEG7;1080;2160;403
+Redmi 5A Desh Ka Smartphone Dual SIM;720;1280;294
+Redmi 5A Dual SIM;720;1280;294
+Redmi 6 Dual SIM APAC M1804C3DH;720;1440;295
+Redmi 6 Dual SIM Global M1804C3DG;720;1440;295
+Redmi 6 Dual SIM M1804C3DC / M1804C3DE;720;1440;295
+Redmi 6 Dual SIM M1804C3DT;720;1440;295
+Redmi 6 Pro Dual SIM M1805D1SH;1080;2280;432
+Redmi 6 Pro Pemium Edition Dual SIM M1805D1SE / M1805D1SC;1080;2280;432
+Redmi 6 Pro Premium Edition Dual SIM M1805D1SE / M1805D1SC;1080;2280;432
+Redmi 6 Pro Premium Edition Dual SIM M1805D1ST;1080;2280;432
+Redmi 6 Pro Standard Edition Dual SIM M1805D1SE / M1805D1SC;1080;2280;432
+Redmi 6 Pro Stardard Edition Dual SIM M1805D1ST;1080;2280;432
+Redmi 6A Dual SIM  M1804C3CC / M1804C3CE;720;1440;295
+Redmi 6A Dual SIM  M1804C3CT;720;1440;295
+Redmi 6A Dual SIM APAC  M1804C3CH;720;1440;295
+Redmi 6A Dual SIM Global  M1804C3CG;720;1440;295
+Redmi 6A Dual SIM M1804C3CC / M1804C3CE;720;1440;295
+Redmi 6A Dual SIM M1804C3CT;720;1440;295
+Redmi 7 Dual SIM  M1810F6LE;1520;720;269
+Redmi 7 Dual SIM APAC M1810F6LH;1520;720;269
+Redmi 7 Dual SIM M1810F6LE;1520;720;269
+Redmi 7 Global Dual SIM  M1810F6LG;1520;720;269
+Redmi 7 Global Dual SIM M1810F6LG;1520;720;269
+Redmi 7 Premium Edition Dual SIM M1810F6LI;1520;720;269
+Redmi 7 Standard Edition Dual SIM M1810F6LI;1520;720;269
+Redmi 7A Dual SIM  M1903C3EI / MZB7995IN / MZB7798IN / MZB7799IN;720;1440;295
+Redmi 7A Dual SIM APAC  M1903C3EH;720;1440;295
+Redmi 7A Dual SIM APAC M1903C3EH;720;1440;295
+Redmi 7A Dual SIM M1903C3EI / MZB7989IN / MZB7800IN / MZB8008IN;720;1440;295
+Redmi 7A Global Dual SIM M1903C3EG;720;1440;295
+Redmi 7A Premium Edition Dual SIM M1903C3EE / M1903C3EC;720;1440;295
+Redmi 7A Premium Edition Dual SIM M1903C3ET;720;1440;295
+Redmi 7A Standard Edition Dual SIM  M1903C3EE / M1903C3EC;720;1440;295
+Redmi 7A Standard Edition Dual SIM M1903C3EE / M1903C3EC;720;1440;295
+Redmi 8 Dual SIM APAC M1908C3IH;720;1520;271
+Redmi 8 Dual SIM M1908C3IE / M1908C3IC;720;1520;271
+Redmi 8 Dual SIM MZB8254IN / MZB8255IN / MZB8256IN / MZB8257IN;720;1520;271
+Redmi 8 Global Dual SIM M1908C3IG;720;1520;271
+Redmi 8A Dual Premium Edition Dual SIM M2001C3K3I / Redmi 8A Pro;720;1520;271
+Redmi 8A Dual Standard Edition Dual SIM M2001C3K3I / Redmi 8A Pro;720;1520;271
+Redmi 8A Premium Edition Dual SIM M1908C3KE / M1908C3KC;720;1520;271
+Redmi 8A Premium Edition Dual SIM M1908C3KI;720;1520;271
+Redmi 8A Standard Edition Dual SIM M1908C3KI;720;1520;271
+Redmi 8A Standard Edition Global Dual SIM M1908C3KG;720;1520;271
+Redmi 9 Activ Premium Edition Dual SIM M2006C3MII;720;1600;269
+Redmi 9 Activ Standard Edition Dual SIM M2006C3MII;720;1600;269
+Redmi 9 Dual SIM M2006C3MII / Redmi 9C;720;1600;269
+Redmi 9 Global Dual SIM M2004J19G;1080;2340;395
+Redmi 9 Power 4G Premium Edition Dual SIM M2010J19SI;1080;2340;395
+Redmi 9 Power 4G Standard Edition Dual SIM M2010J19SI;1080;2340;395
+Redmi 9 Premium Edition Dual SIM M2004J19C;1080;2340;395
+Redmi 9 Prime Dual SIM M2004J19I;1080;2340;395
+Redmi 9 Standard Edition Dual SIM M2004J19C;1080;2340;395
+Redmi 9A Dual SIM M2006C3LC;720;1600;269
+Redmi 9A Global Dual SIM M2006C3LG;720;1600;269
+Redmi 9A Premium Edition Dual SIM M2006C3LI;720;1600;269
+Redmi 9A Sport Premium Edition Dual SIM M2006C3LI;720;1600;269
+Redmi 9A Sport Standard Edition Dual SIM M2006C3LI;720;1600;269
+Redmi 9A Standard Edition Dual SIM M2006C3LI;720;1600;269
+Redmi 9AT Standard Edition Global Dual SIM M2006C3LVG;720;1600;269
+Redmi 9C Global Dual SIM M2006C3MG;720;1600;269
+Redmi 9C NFC Global Dual SIM M2006C3MNG;720;1600;269
+Redmi 9i Dual SIM M2006C3LII;720;1600;269
+Redmi 9i Sport Dual SIM M2006C3LII;720;1600;269
+Redmi 9T Premium Edition Global Dual SIM M2010J19SG;1080;2340;395
+Redmi 9T Standard Edition Dual SIM JP M2010J19SR;1080;2340;395
+Redmi 9T Standard Edition Dual SIM LATAM M2010J19SL;1080;2340;395
+Redmi 9T Standard Edition Dual SIM RU M2010J19SY;1080;2340;395
+Redmi 9T Standard Edition Global Dual SIM M2010J19SG;1080;2340;395
+Redmi Go Dual SIM APAC LATAM M1903C3GH;720;1280;294
+Redmi Go Global Dual SIM M1903C3GG;720;1280;294
+Redmi K20 Dual SIM MZB7754IN / MZB7755IN / MZB7756IN;1080;2340;403
+Redmi K20 Dual SIM MZB7757IN / MZB7758IN / MZB7759IN;1080;2340;403
+Redmi K20 Premium Edition Dual SIM M1903F10A / M1903F10C;1080;2340;403
+Redmi K20 Pro Dual SIM MZB7748IN / MZB7749IN / MZB7750IN;1080;2340;403
+Redmi K20 Pro Dual SIM MZB7751IN / MZB7752IN / MZB7753IN;1080;2340;403
+Redmi K20 Pro Premium Edition Dual SIM M1903F11A / M1903F11C;1080;2340;403
+Redmi K20 Pro Premium Edition Dual SIM M1903F11T;1080;2340;403
+Redmi K20 Pro Prime Premium Edition Dual SIM M1903F11A;1080;2340;403
+Redmi K20 Pro Prime Standard Edition Dual SIM M1903F11A;1080;2340;403
+Redmi K20 Pro Standard Edition Dual SIM M1903F11A / M1903F11C;1080;2340;403
+Redmi K20 Pro Standard Edition Dual SIM M1903F11T;1080;2340;403
+Redmi K20 Standard Edition Dual SIM M1903F10A / M1903F10C;1080;2340;403
+Redmi K20 Standard Edition Dual SIM M1903F10T;1080;2340;403
+Redmi K30 5G Extreme Speed Edition Dual SIM;1080;2400;395
+Redmi K30 5G Premium Edition Dual SIM M2001G7AE / M2001G7AC;1080;2400;395
+Redmi K30 5G Standard Edition Dual SIM M2001G7AE / M2001G7AC;1080;2400;395
+Redmi K30 Premium Edition Dual SIM M1912G7BE / M1912G7BC;1080;2400;395
+Redmi K30 Pro 5G Premium Edition Dual SIM M2006J10C;1080;2400;395
+Redmi K30 Pro 5G Standard Edition Dual SIM M2006J10C;1080;2400;395
+Redmi K30 Pro Zoom 5G Dual SIM M2001J11E / M2001J11C;1080;2400;395
+Redmi K30 Standard Edition Dual SIM M1912G7BE / M1912G7BC;1080;2400;395
+Redmi K30 Ultra 5G Premium Edition Dual SIM M2006J10C;1080;2400;395
+Redmi K30 Ultra 5G Standard Edition Dual SIM M2006J10C;1080;2400;395
+Redmi K30S 5G Standard Edition Dual SIM M2007J3SC;1080;2400;395
+Redmi K30S 5G Supreme Edition Dual SIM M2007J3SC;1080;2400;395
+Redmi K40 5G Premium Edition Dual SIM M2012K11AC;1080;2400;395
+Redmi K40 5G Standard Edition Dual SIM M2012K11AC;1080;2400;395
+Redmi K40 5G Top Edition Dual SIM M2012K11AC;1080;2400;395
+Redmi K40 Game Enhanced Edition 5G Dual SIM M2104K10C;1080;2400;395
+Redmi K40 Game Premium Edition 5G Dual SIM M2104K10C;1080;2400;395
+Redmi K40 Game Standard Edition 5G Dual SIM M2104K10C;1080;2400;395
+Redmi K40 Pro 5G Premium Edition Dual SIM M2012K11C;1080;2400;395
+Redmi K40 Pro 5G Standard Edition Dual SIM M2012K11C;1080;2400;395
+Redmi K40 Pro+ 5G Dual SIM M2012K11Q / Redmi K40 Ulta;1080;2400;395
+Redmi K50 5G Premium Edition Dual SIM 22041211AC;1440;3200;526
+Redmi K50 5G Standard Edition Dual SIM 22041211AC;1440;3200;526
+Redmi K50 Gaming 5G Premium Edition Dual SIM 21121210C / K50G;1080;2400;395
+Redmi K50 Gaming 5G Standard Edition Dual SIM 21121210C / K50G;1080;2400;395
+Redmi K50 Pro 5G Premium Edition Dual SIM 22011211C;1440;3200;526
+Redmi K50 Pro 5G Standard Edition Dual SIM 22011211C;1440;3200;526
+Redmi K50G 5G Mercedes-AMG Petronas F1 Team Edition Dual SIM 21121210C;1080;2400;395
+Redmi Note 10 4G Premium Edition Dual SIM M2101K7AI;1080;2400;409
+Redmi Note 10 4G Premium Edition Global Dual SIM M2101K7AG;1080;2400;409
+Redmi Note 10 4G Standard Edition Dual SIM M2101K7AI;1080;2400;409
+Redmi Note 10 4G Standard Edition Global Dual SIM M2101K7AG;1080;2400;409
+Redmi Note 10 5G Premium Edition Global Dual SIM M2103K19G;1080;2400;405
+Redmi Note 10 5G Standard Edition Global Dual SIM M2103K19G;1080;2400;405
+Redmi Note 10 JE XIG02 JP;1080;2400;405
+Redmi Note 10 Lite Premium Edition Dual SIM 2109106A1I;1080;2400;395
+Redmi Note 10 Lite Standard Edition Dual SIM 2109106A1I;1080;2400;395
+Redmi Note 10 Pro 4G Premium Edition Dual SIM M2101K6P;1080;2400;395
+Redmi Note 10 Pro 4G Special Edition Global Dual SIM M2101K6G;1080;2400;395
+Redmi Note 10 Pro 4G Standard Edition Dual SIM APAC LATAM M2101K6R;1080;2400;395
+Redmi Note 10 Pro 4G Standard Edition Dual SIM M2101K6P;1080;2400;395
+Redmi Note 10 Pro 4G Standard Edition Global Dual SIM M2101K6G;1080;2400;395
+Redmi Note 10 Pro Max 4G Premium Edition Dual SIM M2101K6I;1080;2400;395
+Redmi Note 10 Pro Max 4G Standard Edition Dual SIM M2101K6I;1080;2400;395
+Redmi Note 10S Premium Edition Global Dual SIM M2101K7BG;1080;2400;409
+Redmi Note 10S Standard Edition Global Dual SIM M2101K7BG;1080;2400;409
+Redmi Note 10T 5G Premium Edition Dual SIM M2103K19I;1080;2400;405
+Redmi Note 10T 5G Standard Edition Dual SIM M2103K19I;1080;2400;405
+Redmi Note 11 4G Premium Edition Dual SIM 21121119SC;1080;2400;405
+Redmi Note 11 4G Premium Edition Dual SIM 2201117TI;1080;2400;409
+Redmi Note 11 4G Premium Edition Global Dual SIM 2201117TG;1080;2400;409
+Redmi Note 11 4G Standard Edition Dual SIM 21121119SC;1080;2400;405
+Redmi Note 11 4G Standard Edition Dual SIM 2201117TI;1080;2400;409
+Redmi Note 11 4G Standard Edition Dual SIM LATAM JP 2201117TL;1080;2400;409
+Redmi Note 11 4G Standard Edition Global Dual SIM 2201117TG;1080;2400;409
+Redmi Note 11 4G Standard Edition Global Dual SIM 2201117TY;1080;2400;409
+Redmi Note 11 5G Premium Edition Dual SIM 21091116AC;1080;2400;399
+Redmi Note 11 5G Standard Edition Dual SIM 21091116AC;1080;2400;399
+Redmi Note 11 5G Top Edition Dual SIM 21091116AC;1080;2400;399
+Redmi Note 11 Pro 4G Premium Edition Global Dual SIM 2201116TG;1080;2400;395
+Redmi Note 11 Pro 4G Standard Edition Global Dual SIM 2201116TG;1080;2400;395
+Redmi Note 11 Pro 5G Premium Edition Dual SIM 21091116C;1080;2400;395
+Redmi Note 11 Pro 5G Premium Edition Global Dual SIM 2201116SG;1080;2400;395
+Redmi Note 11 Pro 5G Standard Edition Dual SIM 21091116C;1080;2400;395
+Redmi Note 11 Pro 5G Standard Edition Dual SIM JP 2201116SR;1080;2400;395
+Redmi Note 11 Pro 5G Standard Edition Global Dual SIM 2201116SG;1080;2400;395
+Redmi Note 11 Pro+ 5G Premium Edition Dual SIM 21091116UC;1080;2400;395
+Redmi Note 11 Pro+ 5G Premium Edition Dual SIM 2201116SI;1080;2400;395
+Redmi Note 11 Pro+ 5G Premium Edition Global Dual SIM 21091116UG;1080;2400;395
+Redmi Note 11 Pro+ 5G Standard Edition Dual SIM 21091116UC;1080;2400;395
+Redmi Note 11 Pro+ 5G Standard Edition Dual SIM 2201116SI;1080;2400;395
+Redmi Note 11 Pro+ 5G Standard Edition Global Dual SIM 21091116UG;1080;2400;395
+Redmi Note 11E 5G Premium Edition Dual SIM 22041219C;1080;2048;352
+Redmi Note 11E 5G Standard Edition Dual SIM 22041219C;1080;2048;352
+Redmi Note 11i 5G Premium Edition Dual SIM 21091116I;1080;2400;395
+Redmi Note 11i 5G Standard Edition Dual SIM 21091116I;1080;2400;395
+Redmi Note 11i Hypercharge 5G Premium Edition Dual SIM 21091116UI;1080;2400;395
+Redmi Note 11i Hypercharge 5G Standard Edition Dual SIM 21091116UI;1080;2400;395
+Redmi Note 11S 4G Premium Edition Dual SIM 2201117SI;1080;2400;409
+Redmi Note 11S 4G Premium Edition Global Dual SIM 2201117SY;1080;2400;409
+Redmi Note 11S 4G Standard Edition Dual SIM 2201117SI;1080;2400;409
+Redmi Note 11S 4G Standard Edition Dual SIM LATAM 2201117SL;1080;2400;409
+Redmi Note 11S 4G Standard Edition Global Dual SIM 2201117SG;1080;2400;409
+Redmi Note 11S 4G Standard Edition Global Dual SIM 2201117SY;1080;2400;409
+Redmi Note 11S 5G Premium Edition Global Dual SIM 22031116BG;1080;2400;399
+Redmi Note 11S 5G Standard Edition Global Dual SIM 22031116BG;1080;2400;399
+Redmi Note 11T 5G Premium Edition Dual SIM 21091116AI;1080;2400;399
+Redmi Note 11T 5G Standard Edition Dual SIM 21091116AI;1080;2400;399
+Redmi Note 3 Pro Special Edition Global Dual SIM 2015161;1080;1920;401
+Redmi Note 4 Premium Edition Dual SIM 2016100;1080;1920;403
+Redmi Note 4 Standard Edition Dual SIM 2016100;1080;1920;403
+Redmi Note 4X Dual SIM 2016101 / Redmi Note 4 Premium Edition MBE6A5;1080;1920;403
+Redmi Note 4X Dual SIM MBT6A5;1080;1920;403
+Redmi Note 4X Global Dual SIM 2016102 / Redmi Note 4 Mido;1080;1920;403
+Redmi Note 4X Global Dual SIM 2016102 / Redmi Note 4;1080;1920;403
+Redmi Note 5 Dual SIM MEG7;1080;2160;403
+Redmi Note 5 Premium Edition Dual SIM MEC7S / M1803E7SC;1080;2160;403
+Redmi Note 5 Premium Edition Global Dual SIM MEG7S / M1803E7SG;1080;2160;403
+Redmi Note 5 Pro Premium Edition Dual SIM MZB6083IN;1080;2160;403
+Redmi Note 5 Pro Standard Edition Dual SIM MZB6079IN / M1803E7SH;1080;2160;403
+Redmi Note 5 Standard Edition Dual SIM MEE7S / M1803E7SE;1080;2160;403
+Redmi Note 5 Standard Edition Dual SIM MEE7S;1080;2160;403
+Redmi Note 5 Standard Edition Dual SIM MET7S / M1803E7ST;1080;2160;403
+Redmi Note 5 Standard Edition Global Dual SIM MEG7S / M1803E7SG;1080;2160;403
+Redmi Note 5A Dual SIM MDE6 ;720;1280;267
+Redmi Note 5A Dual SIM MDT6;720;1280;267
+Redmi Note 5A Global Dual SIM MDG6;720;1280;267
+Redmi Note 5A Prime Global Dual SIM MDG6S;720;1280;267
+Redmi Note 5A S Dual SIM MDE6S;720;1280;267
+Redmi Note 5A S Dual SIM MDT6S;720;1280;267
+Redmi Note 6 Pro Dual SIM APAC M1806E7TH;1080;2280;403
+Redmi Note 6 Pro Dual SIM M1806E7TE / M1806E7TC;1080;2280;403
+Redmi Note 6 Pro Dual SIM MY MZB6876IN / MZB6877IN / MZB6878IN / MZB6882IN;1080;2280;403
+Redmi Note 6 Pro Dual SIM MY MZB6879IN / MZB6880IN / MZB6881IN / MZB6883IN;1080;2280;403
+Redmi Note 6 Pro Global Dual SIM M1806E7TG;1080;2280;403
+Redmi Note 7 Dual SIM APAC LATAM M1901F7H;1080;2340;409
+Redmi Note 7 Dual SIM M1901F7I / MZB7411IN / MZB7263IN / MZB7264IN;1080;2340;409
+Redmi Note 7 Dual SIM M1901F7I / MZB7412IN / MZB7265IN / MZB7266IN;1080;2340;409
+Redmi Note 7 Dual SIM TH M1901F7I;1080;2340;409
+Redmi Note 7 Global Dual SIM M1901F7G / Redmi Note Seven;1080;2340;409
+Redmi Note 7 Global Dual SIM M1901F7G;1080;2340;409
+Redmi Note 7 Premium Edition Dual SIM M1901F7E / M1901F7C;1080;2340;409
+Redmi Note 7 Pro Dual SIM M1901F7BE;1080;2340;409
+Redmi Note 7 Pro Dual SIM M1901F7S / MZB7462IN / MZB7464IN;1080;2340;409
+Redmi Note 7 Pro Dual SIM M1901F7S;1080;2340;409
+Redmi Note 7 Standard Edition Dual SIM M1901F7E / M1901F7C;1080;2340;409
+Redmi Note 7S Dual SIM MZB7741IN / MZB7742IN / MZB7743IN;1080;2340;409
+Redmi Note 7S Dual SIM MZB7744IN / MZB7745IN / MZB7746IN;1080;2340;409
+Redmi Note 8 2021 Global Dual SIM M1908C3JGG;1080;2340;409
+Redmi Note 8 Dual SIM APAC M1908C3JH;1080;2340;409
+Redmi Note 8 Global Dual SIM M1908C3JG;1080;2340;409
+Redmi Note 8 Premium Edition Dual SIM M1908C3JE;1080;2340;409
+Redmi Note 8 Pro Global Dual SIM M1906G7G;1080;2340;395
+Redmi Note 8 Pro Premium Edition Dual SIM M1906G7E;1080;2340;395
+Redmi Note 8 Pro Premium Edition Dual SIM M1906G7I;1080;2340;395
+Redmi Note 8 Pro Premium Edition Dual SIM M1906G7T;1080;2340;395
+Redmi Note 8 Pro Standard Edition Dual SIM M1906G7E;1080;2340;395
+Redmi Note 8 Pro Standard Edition Dual SIM M1906G7I;1080;2340;395
+Redmi Note 8 Pro Standard Edition Dual SIM M1906G7T;1080;2340;395
+Redmi Note 8 Standard Edition Dual SIM M1908C3JE;1080;2340;409
+Redmi Note 8T Premium Edition Global Dual SIM M1908C3XG;1080;2340;409
+Redmi Note 8T Standard Edition Global Dual SIM M1908C3XG;1080;2340;409
+Redmi Note 9 4G Premium Edition Dual SIM M2010J19CT;1080;2340;395
+Redmi Note 9 4G Standard Edition Dual SIM M2010J19CT;1080;2340;395
+Redmi Note 9 4G Top Edition Dual SIM M2010J19CT;1080;2340;395
+Redmi Note 9 5G Premium Edition Dual SIM M2007J22C;1080;2340;395
+Redmi Note 9 5G Standard Edition Dual SIM M2007J22C;1080;2340;395
+Redmi Note 9 Global Dual SIM M2003J15SG;1080;2340;395
+Redmi Note 9 Global Dual SIM M2003J15SS;1080;2340;395
+Redmi Note 9 Pro 5G Premium Edition Dual SIM M2007J17C;1080;2400;395
+Redmi Note 9 Pro 5G Standard Edition Dual SIM M2007J17C;1080;2400;395
+Redmi Note 9 Pro Global Dual SIM M2003J6B2G;1080;2400;395
+Redmi Note 9 Pro Max Premium Edition Dual SIM M2003J6B1I;1080;2400;395
+Redmi Note 9 Pro Max Standard Edition Dual SIM M2003J6B1I;1080;2400;395
+Redmi Note 9 Pro Premium Edition Dual SIM NP M2003J6A1I;1080;2400;395
+Redmi Note 9 Pro Standard Edition Dual SIM M2003J6A1I;1080;2400;395
+Redmi Note 9S Global Dual SIM M2003J6A1G;1080;2400;395
+Redmi Note 9T 5G A001XM Dual SIM JP M2007J22R;1080;2340;395
+Redmi Note 9T 5G Global Dual SIM M2007J22G;1080;2340;395
+Redmi Pro 2 Dual SIM;1080;1920;401
+Redmi Pro Exclusive Edition Dual SIM 2016021;1080;1920;401
+Redmi Pro Premium Edition Dual SIM 2016021;1080;1920;401
+Redmi Pro Standard Edition Dual SIM 2016020;1080;1920;401
+Redmi S2 Dual SIM EG BD MX M1803E6H;720;1440;269
+Redmi S2 Dual SIM Global M1803E6G;720;1440;269
+Redmi S2 Dual SIM M1803E6E / M1803E6C;720;1440;269
+Redmi S2 Dual SIM M1803E6T;720;1440;269
+Redmi Y1 Dual SIM;720;1280;267
+Redmi Y1 Lite Dual SIM IN;720;1280;267
+Redmi Y2 Dual SIM  MZB6305IN / MZB6306IN / MZB6307IN;720;1440;269
+Redmi Y2 Dual SIM MZB6144IN / MZB6145IN / MZB6783IN / MZB6784IN;720;1440;269
+Redmi Y3 Global Dual SIM M1810F6G;1520;720;269
+Redmi Y3 Premium Edition Dual SIM M1810F6I;1520;720;269
+Redmi Y3 Standard Edition Dual SIM M1810F6I;1520;720;269

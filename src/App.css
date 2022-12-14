@@ -1,5 +1,6 @@
 
 .App {
+  box-sizing: border-box;
   background-color: #333;
   display: flex;
   justify-content: stretch;
@@ -20,6 +21,7 @@
 }
 
 .SideMenu {
+  box-sizing: border-box;
   width: 10vw;
   padding: 1rem;
   background-color: rgba(255, 255, 255, 0.1);

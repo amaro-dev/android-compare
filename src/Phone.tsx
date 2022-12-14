@@ -41,6 +41,7 @@ export class PhoneDef {
 
     constructor(
         public name: String,
+        public brand: String,
         public size: WindowSize,
         public ppi: number
     ) {
