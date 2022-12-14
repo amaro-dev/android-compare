@@ -94,7 +94,7 @@ def process_file(file, brand):
 
 
 if __name__ == '__main__':
-    db = process_file("./oppo.txt", "Oppo")
+    db = process_file("./google.txt", "Google")
     current = {}
     with open("./src/catalog.json", "r") as f:
         current = json.load(f)

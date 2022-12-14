@@ -93226,5 +93226,623 @@
                 }
             ]
         }
+    ],
+    "Google": [
+        {
+            "name": "Ion A6161",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "320",
+                    "height": "480",
+                    "density": "181"
+                }
+            ]
+        },
+        {
+            "name": "Nexus 10",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "2560",
+                    "height": "1600",
+                    "density": "300"
+                }
+            ]
+        },
+        {
+            "name": "Nexus 6 XT1100",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "2560",
+                    "density": "493"
+                }
+            ]
+        },
+        {
+            "name": "Nexus 6 XT1103",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "2560",
+                    "density": "493"
+                }
+            ]
+        },
+        {
+            "name": "Nexus 7 FHD 2013 ME571K",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1200",
+                    "height": "1920",
+                    "density": "323"
+                }
+            ]
+        },
+        {
+            "name": "Nexus 7 FHD 2013 ME571KL",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1200",
+                    "height": "1920",
+                    "density": "323"
+                }
+            ]
+        },
+        {
+            "name": "Nexus 7 ME370T",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1280",
+                    "height": "800",
+                    "density": "215"
+                }
+            ]
+        },
+        {
+            "name": "Nexus 7C ME370TG",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1280",
+                    "height": "800",
+                    "density": "215"
+                }
+            ]
+        },
+        {
+            "name": "Nexus 9 WiFi",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1536",
+                    "height": "2048",
+                    "density": "288"
+                }
+            ]
+        },
+        {
+            "name": "Nexus 9",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1536",
+                    "height": "2048",
+                    "density": "288"
+                }
+            ]
+        },
+        {
+            "name": "Nexus One",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "480",
+                    "height": "800",
+                    "density": "252"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 3 Phone Global G013A",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2160",
+                    "density": "441"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 3 Phone JP G013B",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2160",
+                    "density": "441"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 3a Global G020F",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2220",
+                    "density": "441"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 3a JP G020H",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2220",
+                    "density": "441"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 3a NA G020E",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2220",
+                    "density": "441"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 3a NA G020G",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2220",
+                    "density": "441"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 3a XL Global G020B",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2160",
+                    "density": "402"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 3a XL JP G020D",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2160",
+                    "density": "402"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 3a XL NA G020A",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2160",
+                    "density": "402"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 3a XL NA G020C",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2160",
+                    "density": "402"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4 Global G020M",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2280",
+                    "density": "443"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4 JP G020N",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2280",
+                    "density": "443"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4 US G020I",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2280",
+                    "density": "443"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4 XL Global G020P",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "3040",
+                    "density": "534"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4 XL JP G020Q",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "3040",
+                    "density": "534"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4 XL US G020J",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "3040",
+                    "density": "534"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4a 5G Global G025I",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2340",
+                    "density": "414"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4a 5G JP G025H",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2340",
+                    "density": "414"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4a 5G US G025E",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2340",
+                    "density": "414"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4a 5G UW US G6QU3",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2340",
+                    "density": "414"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4a Global G025N",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2340",
+                    "density": "444"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 4a US G025J",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2340",
+                    "density": "444"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 5 5G Global GTT9Q",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2340",
+                    "density": "434"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 5 5G JP G5NZ6",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2340",
+                    "density": "434"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 5 5G UW US GD1YQ",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2340",
+                    "density": "434"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 5a 5G JP G4S1M",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2400",
+                    "density": "415"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 5a 5G US G1F8F",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2400",
+                    "density": "415"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 6 5G Global GB7N6",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2400",
+                    "density": "410"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 6 5G UW JP GR1YH",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2400",
+                    "density": "410"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 6 5G UW US G9S9B",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2400",
+                    "density": "410"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 6 Pro 5G Global GLUOG",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "3120",
+                    "density": "513"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 6 Pro 5G UW JP GF5KQ",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "3120",
+                    "density": "513"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 6 Pro 5G UW US G8VOU",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "3120",
+                    "density": "513"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 6a 5G Global G1AZG",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2400",
+                    "density": "429"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 6a 5G JP GB17L",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2400",
+                    "density": "429"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 6a 5G NA GX7AS",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2400",
+                    "density": "429"
+                }
+            ]
+        },
+        {
+            "name": "Pixel 6a 5G UW US GB62Z",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "2400",
+                    "density": "429"
+                }
+            ]
+        },
+        {
+            "name": "Pixel C",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "2560",
+                    "height": "1800",
+                    "density": "307"
+                }
+            ]
+        },
+        {
+            "name": "Pixel Phone / Nexus S1",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "1920",
+                    "density": "441"
+                }
+            ]
+        },
+        {
+            "name": "Pixel Phone 2 Global G011A",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1080",
+                    "height": "1920",
+                    "density": "441"
+                }
+            ]
+        },
+        {
+            "name": "Pixel XL 3 Phone Global G013C",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "2960",
+                    "density": "523"
+                }
+            ]
+        },
+        {
+            "name": "Pixel XL 3 Phone JP G013D",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "2960",
+                    "density": "523"
+                }
+            ]
+        },
+        {
+            "name": "Pixel XL Phone / Nexus M1",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "2560",
+                    "density": "537"
+                }
+            ]
+        },
+        {
+            "name": "Pixel XL Phone 2 Global G011C",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "1440",
+                    "height": "2880",
+                    "density": "538"
+                }
+            ]
+        },
+        {
+            "name": "Pixelbook",
+            "brand": "Google",
+            "screens": [
+                {
+                    "width": "2400",
+                    "height": "1600",
+                    "density": "235"
+                }
+            ]
+        }
     ]
 }

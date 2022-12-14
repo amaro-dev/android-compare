@@ -90,12 +90,12 @@ def extract_screen(size, density) -> Screen:
     return Screen(width, height, density)
 
 def save(devices):
-    with open("sony.txt", "a", encoding = 'utf-8') as f:
+    with open("google.txt", "a", encoding = 'utf-8') as f:
         for d in devices:
             f.write(d.__str__())
             f.write('\n')
 
-page = "index.php?m=device&s=list&first=sony"
+page = "index.php?m=device&s=list&first=google"
 
 devices = []
 while page != None:
