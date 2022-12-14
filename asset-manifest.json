@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/android-compare/static/css/main.056dff80.css",
+    "main.js": "/android-compare/static/js/main.b4ddbb4d.js",
+    "static/js/787.e20fd002.chunk.js": "/android-compare/static/js/787.e20fd002.chunk.js",
+    "index.html": "/android-compare/index.html",
+    "main.056dff80.css.map": "/android-compare/static/css/main.056dff80.css.map",
+    "main.b4ddbb4d.js.map": "/android-compare/static/js/main.b4ddbb4d.js.map",
+    "787.e20fd002.chunk.js.map": "/android-compare/static/js/787.e20fd002.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.056dff80.css",
+    "static/js/main.b4ddbb4d.js"
+  ]
+}
