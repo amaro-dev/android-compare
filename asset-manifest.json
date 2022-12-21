@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/android-compare/static/css/main.03bdbbcc.css",
+    "main.js": "/android-compare/static/js/main.c5eaa7d3.js",
+    "static/js/787.8a85c7a3.chunk.js": "/android-compare/static/js/787.8a85c7a3.chunk.js",
+    "static/media/tool-logo.svg": "/android-compare/static/media/tool-logo.d7561ee9507fcc63605c1356fb96c7fd.svg",
+    "index.html": "/android-compare/index.html",
+    "main.03bdbbcc.css.map": "/android-compare/static/css/main.03bdbbcc.css.map",
+    "main.c5eaa7d3.js.map": "/android-compare/static/js/main.c5eaa7d3.js.map",
+    "787.8a85c7a3.chunk.js.map": "/android-compare/static/js/787.8a85c7a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03bdbbcc.css",
+    "static/js/main.c5eaa7d3.js"
+  ]
+}
