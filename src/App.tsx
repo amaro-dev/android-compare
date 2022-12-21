@@ -5,7 +5,7 @@ import { Phone, PhoneDef, WindowSize } from './Phone';
 import DeleteIcon from '@mui/icons-material/Delete';
 import { TextFields, ZoomOutMap } from '@mui/icons-material';
 import phoneData from "./catalog.json";
-
+import logo from './tool-logo.svg' 
 
 
 
@@ -80,7 +80,7 @@ function App() {
       <Stack height="100vh">
         <AppBar sx={{ px: 2 }}>
           <Stack direction="row" height="8vh" alignItems="center">
-            <Typography sx={{ width: 1 / 8 }} variant="h4">Screen Match</Typography>
+            <img src={logo} style={{ marginRight: '1rem'}}/>
             <Autocomplete
               value={null}
               sx={{ ...autoCompleteStyle, width: 1 / 2 }}

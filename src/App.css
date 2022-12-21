@@ -17,12 +17,15 @@
   padding: 2rem;
   display: flex;
   flex-direction: row;
+  flex: 1 1 0;
   color: #fff;
+  overflow: auto;
 }
 
 .SideMenu {
   box-sizing: border-box;
   width: 10vw;
+  min-width: 260px;
   padding: 1rem;
   background-color: rgba(255, 255, 255, 0.1);
   border-right: 1px solid #666;
